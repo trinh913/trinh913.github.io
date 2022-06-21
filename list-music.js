@@ -35,4 +35,10 @@ let allMusic = [
       img: "img-6",
       src: "music-6"
     },
+    {
+      name: "2AM (Cover)",
+      artist: "Huy Vạc",
+      img: "img-7",
+      src: "music-7"
+    },
 ];

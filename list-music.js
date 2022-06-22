@@ -41,4 +41,26 @@ let allMusic = [
       img: "img-7",
       src: "music-7"
     },
+    {
+      name: "Anh đánh rơi người yêu này",
+      artist: "Andiez ft. AMEE | OST",
+      img: "img-8",
+      src: "music-8"
+    },
+    {
+      name: "Cầu hôn",
+      artist: "Văn Mai Hương",
+      img: "img-9",
+      src: "music-9"
+    },{
+      name: "See tình",
+      artist: "Hoàng Thùy Linh",
+      img: "img-10",
+      src: "music-10"
+    },{
+      name: "Chúng ta sau này",
+      artist: "T.R.I x Freak D",
+      img: "img-11",
+      src: "music-11"
+    },
 ];

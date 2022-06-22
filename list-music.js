@@ -57,10 +57,17 @@ let allMusic = [
       artist: "Hoàng Thùy Linh",
       img: "img-10",
       src: "music-10"
-    },{
+    },
+    {
       name: "Chúng ta sau này",
       artist: "T.R.I x Freak D",
       img: "img-11",
       src: "music-11"
+    },
+    {
+      name: "Hơn cả mây trời",
+      artist: "Việt",
+      img: "img-12",
+      src: "music-12"
     },
 ];

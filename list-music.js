@@ -48,8 +48,8 @@ let allMusic = [
       src: "music-8"
     },
     {
-      name: "Cầu hôn",
-      artist: "Văn Mai Hương",
+      name: "Là ai mang nắng đi xa",
+      artist: "Yang",
       img: "img-9",
       src: "music-9"
     },{
@@ -70,4 +70,11 @@ let allMusic = [
       img: "img-12",
       src: "music-12"
     },
+    {
+      name: "Mẻ mộng mơ",
+      artist: "Reddy x Freak D",
+      img: "img-13",
+      music: "music-13"
+    },
+  
 ];
